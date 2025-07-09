@@ -1,0 +1,40 @@
+$black: #1a1c1a;
+$red: #a50f0c;
+$gray: #868c8c;
+
+
+.counter-container {
+  text-align: center;
+  margin-top: 50px;
+
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease;
+
+    &.inc {
+      background-color: $black;
+    }
+
+    &.dec {
+      background-color: $red;
+    }
+
+    &.reset {
+      background-color: $gray;
+    }
+
+    &:hover {
+      opacity: 0.85;
+    }
+  }
+}
