@@ -17,6 +17,8 @@ Butonlarla sayıyı artırabilir, azaltabilir veya sıfırlayabilirsiniz.
 
 ## 📷 Ekran Görüntüsü
 
+https://github.com/ShamsSannoufaa/Counter-basic/blob/main/counter.jpg
+
 ---
 
 ## 🔧 Kurulum
